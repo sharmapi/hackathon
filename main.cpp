@@ -2,9 +2,8 @@
  * @file main.cpp
  * @author Christina Tagay
  */
+#include "pch.h"
 
-#include <iostream>
+#include "App.h"
 
-int main() {
-    std::cout << "Hello World!\n";
-}
+wxIMPLEMENT_APP(App);
