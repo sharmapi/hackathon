@@ -13,5 +13,4 @@
 #include <wx/wx.h>
 #endif
 
-
 #endif //HACK_PCH_H
